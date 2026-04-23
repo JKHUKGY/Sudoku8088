@@ -1,0 +1,1 @@
+Recruiter	Rachel Scherer	Campus Recruiting Lead, Americas - Nasdaq	Greater Tampa Bay Area, FL	N/A	2nd	Posted 1mo ago about Boston Global Technology interns wrap-up	https://www.linkedin.com/in/rachel-ann-scherer/	2nd-degree campus recruiter who personally posted about Boston tech interns — directly relevant to this grad role

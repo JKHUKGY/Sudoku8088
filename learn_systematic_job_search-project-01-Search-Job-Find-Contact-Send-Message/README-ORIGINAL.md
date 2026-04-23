@@ -1,0 +1,3 @@
+# Systematic Job Search with AI
+
+A systematic approach to job searching leverages AI tools to streamline and optimize the application process. This methodology divides job hunting into two distinct strategies: **Active Application** (outbound) and **Passive Application** (inbound). Active application refers to proactively searching for opportunities and submitting applications to potential employers. Passive application, on the other hand, involves building a personal brand and online presence that attracts recruiters and hiring managers to reach out to you directly. This project focuses on the **Active Application** strategy—using AI to efficiently identify, analyze, and apply for job opportunities at scale.

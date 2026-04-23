@@ -1,0 +1,1 @@
+Hi Rachel, I saw your post about the Boston tech team! I’m a Math MS at NYU with a background in ETL and ML. I built a predictive project similar to Nasdaq’s market data needs (demo: https://demo.example). Would you be open to a referral or a brief chat about the Graduate DS role?

@@ -1,0 +1,3 @@
+- Objective: Find a full time job in Data Scientist, Machine Learning Engineer or related job family
+- Current Situation: Master of Science in Applied Mathematics, graduated on Feb 2026, Bachelor of Science in Computational and Applied Mathematics, Minor in Computer Science, graduated on May 2024
+- Visa Status: F1，need H1B Sponsor
