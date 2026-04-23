@@ -1,0 +1,3 @@
+# learn_build_resume-project
+
+Learn to Build Your Resume is a hands-on tutorial series for tech professionals targeting the North American job market. The course covers how US hiring actually works, what ATS systems really do (and don't do), and how to write resumes that get interviews—whether you're a new grad or have 1-5 years of experience. Each lesson is taught in Chinese but focuses on crafting English resumes with real examples across roles like SDE, Data Engineer, ML Engineer, and more. The second part of the series introduces AI-powered tools to help you iterate and manage your resume efficiently.
